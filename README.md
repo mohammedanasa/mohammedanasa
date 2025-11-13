@@ -107,15 +107,6 @@
 
 ---
 
-
-# 📫 Connect with Me
-
-📍 Dubai, UAE
-📧 **[mohammedanasa@outlook.com](mailto:mohammedanasa@outlook.com)**
-🔗 **LinkedIn:** [https://www.linkedin.com/in/mohammedanasa](https://www.linkedin.com/in/mohammedanasa)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammedanasa&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
