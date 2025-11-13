@@ -86,7 +86,7 @@
 
 ---
 
-# 📈 **GitHub Stats (AI-Focused)**
+# 📈 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedanasa&show_icons=true&theme=algolia&hide_border=true&rank_icon=percentile" height="180" />
@@ -120,5 +120,3 @@
   <img src="https://komarev.com/ghpvc/?username=mohammedanasa&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
 
-
-Just tell me!
