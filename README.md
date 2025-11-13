@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mohammed%20Anas&fontSize=50&fontAlign=50&fontColor=ffffff" />
 </p>
@@ -109,12 +107,6 @@
 
 ---
 
-# 🎯 **My AI Philosophy**
-
-> **“Good AI systems are not just accurate. They are reliable, reproducible, explainable, and scalable.”**
-> — I focus on building ML products that can survive real-world constraints.
-
----
 
 # 📫 Connect with Me
 
