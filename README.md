@@ -1,9 +1,6 @@
 
-**Machine Learning Engineer | LLM Engineer | Deep Learning Researcher**
+*Machine Learning Engineer | LLM Engineer | Deep Learning Researcher*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1A1A1A&height=60&text=&fontSize=0" />
-</p>
 
 I work on applied and research-oriented machine learning, focusing on **large language models**, **deep learning**, and **AI systems engineering**. My interests include:
 
