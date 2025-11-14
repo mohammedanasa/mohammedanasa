@@ -1,5 +1,5 @@
 
-*Machine Learning Engineer | LLM Engineer | Deep Learning Researcher*
+## Machine Learning Engineer | LLM Engineer 
 
 
 I work on applied and research-oriented machine learning, focusing on **large language models**, **deep learning**, and **AI systems engineering**. My interests include:
