@@ -71,9 +71,9 @@ Python · FastAPI · Django REST · Microservices · GPU inference
 ---
 
 
-<p align="center">
-  ## GitHub Analytics 
-</p>
+<h3 align="center">
+   GitHub Analytics 
+</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedanasa&theme=dark&hide_border=true" height="160">
