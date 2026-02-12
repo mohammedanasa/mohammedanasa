@@ -70,9 +70,9 @@ Python · FastAPI · Django REST · Microservices · GPU inference
 
 ---
 
-## GitHub Analytics
 
 <p align="center">
+  ## GitHub Analytics 
 </p>
 
 <p align="center">
