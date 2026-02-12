@@ -73,7 +73,6 @@ Python · FastAPI · Django REST · Microservices · GPU inference
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedanasa&show_icons=false&theme=dark&hide_border=true" height="160">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedanasa&layout=compact&theme=dark&hide_border=true" height="160">
 </p>
 
