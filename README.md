@@ -1,5 +1,5 @@
 
-## Machine Learning Engineer | Product Manager
+## Machine Learning Engineer 
 
 
 I work on applied and research-oriented machine learning, focusing on **large language models**, **deep learning**, and **AI systems engineering**. My interests include:
